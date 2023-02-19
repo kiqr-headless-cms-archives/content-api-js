@@ -1,6 +1,6 @@
 {
   "name": "@kiqr/content-api",
-  "version": "0.6.3",
+  "version": "0.7.0",
   "description": "OpenAPI client for @kiqr/content-api",
   "author": "OpenAPI-Generator",
   "repository": {
